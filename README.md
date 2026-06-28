@@ -92,7 +92,7 @@ A score of 0.5 represents maximum uncertainty. A score of 0.75 means both signal
 
 ### Validation — two example submissions with different confidence levels
 
-**High-confidence AI (score: 0.7312)**
+**High-confidence AI**
 
 Input: *"Artificial intelligence represents a transformative paradigm shift in modern society. It is important to note that while the benefits of AI are numerous, it is equally essential to consider the ethical implications. Furthermore, stakeholders across various sectors must collaborate to ensure responsible deployment."*
 
@@ -104,7 +104,7 @@ Input: *"Artificial intelligence represents a transformative paradigm shift in m
 }
 ```
 
-**Lower-confidence / uncertain (score: 0.4914)**
+**Lower-confidence / Uncertain**
 
 Input: *"I've been thinking a lot about remote work lately. There are genuine tradeoffs — flexibility and no commute on one side, isolation and blurred work-life boundaries on the other. Studies show productivity varies widely by individual and role type."*
 
